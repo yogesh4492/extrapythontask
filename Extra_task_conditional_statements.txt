@@ -1,0 +1,92 @@
+==> Stage 1: Basic If-Else Tasks
+
+1. Even or Odd – Take a number input and print whether it’s even or odd.
+2. Positive, Negative, or Zero – Identify if a number is positive, negative, or zero.
+3. Voting Eligibility – Check if a person is eligible to vote (age ≥ 18).
+4. Pass/Fail – Take marks as input and determine if a student has passed (≥ 40).
+5. Discount Check – If purchase amount > 500, apply 10% discount; else, no discount.
+6. Divisibility Test – Check if a number is divisible by 3, 5, or both.
+
+---
+
+==> Stage 2: Nested If Conditions Tasks
+
+7. Grade Calculator – Based on marks, print grades:
+
+    >= 90 → A
+    >= 75 → B
+    >= 50 → C
+    <  50 → F
+
+8. Leap Year Check – A year is a leap year if divisible by 4 but not 100 unless divisible by 400.
+
+9. Largest of Three Numbers – Input 3 numbers and find the largest using nested if.
+
+10. Traffic Signal – Input color (Red/Yellow/Green) and print action (Stop/Slow/Go).
+
+11. Body Mass Index (BMI) Calculator –
+
+     BMI < 18.5 → Underweight
+     18.5 < BMI < 25 → Normal
+     25  <= BMI < 30 → Overweight
+     BMI >= 30 → Obese
+
+---
+
+==> Stage 3: Real-World Decision Making
+
+12. Bank ATM –
+
+     Input balance and withdrawal amount.
+     Check if balance is sufficient and withdrawal ≤ daily limit.
+13. Ticket Booking –
+
+     Age < 5 → Free ticket
+     Age 5–18 → Child ticket
+     Age 18–60 → Adult ticket
+     Age > 60 → Senior citizen ticket
+14. Shopping Cart –
+
+     If total > 1000 → 15% discount
+     Else if total > 500 → 10% discount
+     Else → no discount
+
+---
+
+==> Stage 4: Advanced / Challenging Tasks
+
+15. Electricity Bill Calculator – Units consumed:
+
+     ≤ 100 → Rs. 5/unit
+     101–200 → Rs. 7/unit
+     201–500 → Rs. 10/unit
+     > 500 → Rs. 15/unit
+16. Simple Login System –
+
+     Input username and password.
+     If correct, print “Login Successful”; else, check if username is correct but password wrong → print “Incorrect Password”.
+17. Temperature Advisor –
+
+     temp < 0 → “Freezing”
+     0 ≤ temp < 10 → “Cold”
+     10 ≤ temp < 25 → “Pleasant”
+     ≥ 25 → “Hot”
+
+---
+
+==> Stage 5: Creative / Mixed Nested Tasks
+
+18. Car Rental Charges –
+
+     Sedan: Rs. 1000/day, SUV: Rs. 1500/day, Hatchback: Rs. 800/day
+     If rental days > 5 → 10% discount
+19. Restaurant Bill with GST and Service Charge –
+
+     Calculate GST 5% + service charge 10% based on food type (Veg/Non-Veg) and bill amount
+20. Student Scholarship Eligibility –
+
+     Marks ≥ 90 → Full Scholarship
+     Marks ≥ 75 → Half Scholarship if family income < 5 LPA
+     Else → No Scholarship
+
+
