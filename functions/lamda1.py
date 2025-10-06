@@ -16,7 +16,17 @@ print(num(0))
 print(num(7))
 print("".center(55,'-'))
 
+""" Checking number is even or odd"""
 
+
+num=lambda y: 'even' if y%2==0 else 'odd'
+print(num(24))
+print(num(15))
+print(num(23))
+print("".center(55,'-'))
+
+
+"""checking Number """
 
 
 
